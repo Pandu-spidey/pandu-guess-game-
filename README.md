@@ -42,7 +42,7 @@ guess-game/
 
 ## 👨‍💻 Dibuat Oleh
 
-**Pandu Wiranata**  
+**Pandu**  
 Mini-project ini dibuat untuk latihan dan portofolio pengembangan aplikasi berbasis web.
 
 ## 📄 Lisensi
